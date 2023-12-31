@@ -28,3 +28,4 @@ Thumbs.db
 .idea/inspectionProfiles/Project_Default.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/Parking-Lot.iml
+.pylintrc
