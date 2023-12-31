@@ -1,1 +1,24 @@
-./.idea
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+env_bak/
+.venv/
+.vscode/
+.idea/
+
+# Ignore local configuration files
+*.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS or Editor specific files
+.DS_Store
+Thumbs.db
