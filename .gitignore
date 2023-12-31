@@ -22,3 +22,9 @@ env_bak/
 # OS or Editor specific files
 .DS_Store
 Thumbs.db
+.idea/Parking-Lot.iml
+*.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/Parking-Lot.iml
