@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "parking-lot"
+version = "0.1.0"
+description = "LLD of a parking lot"
+authors = ["Shrine Sabu <39656631+shrine2000@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+pre-commit = "^3.6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
